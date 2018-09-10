@@ -50,6 +50,13 @@
             4. Mention the date which you required, i.e.., either earliest date or latest date.
             5. Mention the seperator used in your input sheet to seperate dates with quotes and without spaces.
             6. Mention the column number starting from 0, in which the dates are present.
+    
+    
+    Requirements :
+        1. python 2 or python 3.
+        2. Modules required in python :
+            csv, xlrd, xlsxwriter, os, sys, time, datetime.
+            (To install modules : pip install module_name)
                 
             
 """
