@@ -4,7 +4,7 @@
     If you have any questions or suggestions regarding this script,
     feel free to contact me via nikhil.ss4795@gmail.com
 
-    report bugs to @ nikhil.ss4795@gmail.com
+    Report bugs to @ nikhil.ss4795@gmail.com
     
 
     Description :
