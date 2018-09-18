@@ -148,7 +148,7 @@ def sort_date(input_given):
     now_date=str(now)
     temp_date = 1
     for i in range(0,len(input_given)):
-        temp = input_given[i].replace(" ","")
+        temp = input_given[i].replace(" ","").replace('.', '/').replace("-","/")
         try:
             new_date=datetime.datetime.strptime(temp,avaiable_date_format[date_format - 1]).strftime("%Y-%m-%d")
         except:
